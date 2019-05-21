@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+#Add in files here which you DO NOT want to be uploaded to Github e.g. crednetials.  EVERYTHING else will be uploaded form the PC to Github....and be publicif not properly setup to private and/or defined in IGNORE
+#*creds*
+#*password*
 __pycache__/
 *.py[cod]
 *$py.class
